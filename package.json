@@ -1,0 +1,30 @@
+{
+  "name": "apt-ray",
+  "version": "0.1.0",
+  "description": "one topo tool for my personal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilex0208/amosTopo.git"
+  },
+  "keywords": [
+    "personal",
+    "tool",
+    "apt"
+  ],
+  "author": "ilex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilex0208/amosTopo/issues"
+  },
+  "homepage": "https://github.com/ilex0208/amosTopo#readme",
+  "devDependencies": {
+    "dom-support": "^0.0.2",
+    "extend": "^3.0.0",
+    "get-document": "^1.0.0",
+    "within-element": "^0.1.0"
+  }
+}
