@@ -1,6 +1,6 @@
 {
   "name": "apt-ray",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "one topo tool for my personal project",
   "main": "index.js",
   "scripts": {
